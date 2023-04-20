@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2e44afc8-127b-41e7-b2ad-1a31e7068842" name="M1_Call_Center" url="http://65.21.6.157">
+        <fileTransfer accessType="SFTP" host="65.21.6.157" port="22" sshConfigId="c44a3661-f091-4411-b7a8-31e83c07ed5d" sshConfig="outsource@65.21.6.157:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
